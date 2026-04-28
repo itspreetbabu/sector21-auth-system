@@ -1,0 +1,61 @@
+
+INSERT INTO authorisation VALUES
+('Ethan Blackwood',32,'1992-03-12','Male','Single','American','O+','M.Tech','P1000001','ABX1234Z','Passport','9000000001','ethan.b@ops.com','8000000001','AG1001',4589,'Active','2021-05-10','HSBC','1110001','HSBC001',85000,'Agent','New York','Cyber Ops','NY Base','0'),
+
+('Scarlett Vance',29,'1995-07-21','Female','Single','British','A+','MBA','P1000002','BCX2345Y','Passport','9000000002','scarlett.v@ops.com','8000000002','AG1002',6732,'Active','2022-02-14','Barclays','1110002','BARC002',78000,'Analyst','London','Intel Ops','London Base','0'),
+
+('Leonardo Hayes',35,'1989-01-18','Male','Married','Canadian','B+','B.Tech','P1000003','CDX3456X','Passport','9000000003','leo.h@ops.com','8000000003','AG1003',9123,'Active','2020-11-02','RBC','1110003','RBC003',92000,'Supervisor','Toronto','Security Ops','Canada Base','0'),
+
+('Natalie Cross',27,'1997-09-05','Female','Single','Australian','O-','B.Sc','P1000004','DEX4567W','Aadhar','9000000004','nat.c@ops.com','8000000004','AG1004',3812,'Active','2023-01-20','ANZ','1110004','ANZ004',67000,'Agent','Sydney','Surveillance','Sydney Base','0'),
+
+('Ryan Storm',31,'1993-06-11','Male','Single','American','AB+','MCA','P1000005','EFX5678V','Passport','9000000005','ryan.s@ops.com','8000000005','AG1005',7456,'Active','2021-08-15','Chase','1110005','CHASE005',83000,'Tech Lead','Chicago','Cyber Ops','US Base','0'),
+
+('Isabella Frost',28,'1996-04-22','Female','Single','Italian','B-','MBA','P1000006','FGX6789U','Passport','9000000006','bella.f@ops.com','8000000006','AG1006',5521,'Active','2022-06-01','UniCredit','1110006','UNIC006',72000,'Analyst','Rome','Finance Ops','EU Base','0'),
+
+('Adrian Wolfe',34,'1990-10-30','Male','Married','German','A-','B.Tech','P1000007','GHX7890T','Passport','9000000007','adrian.w@ops.com','8000000007','AG1007',8899,'Active','2019-12-12','Deutsche','1110007','DEUT007',91000,'Manager','Berlin','Logistics','EU Base','0'),
+
+('Olivia Kane',26,'1998-02-14','Female','Single','American','O+','BBA','P1000008','HIX8901S','Aadhar','9000000008','olivia.k@ops.com','8000000008','AG1008',4412,'Active','2023-03-10','Wells Fargo','1110008','WF008',65000,'Agent','LA','Field Ops','US Base','0'),
+
+('Victor Steele',38,'1986-12-25','Male','Married','Russian','AB-','M.Tech','P1000009','IJX9012R','Passport','9000000009','victor.s@ops.com','8000000009','AG1009',9988,'Active','2018-07-19','Sberbank','1110009','SBER009',97000,'Director','Moscow','Security Ops','RU Base','0'),
+
+('Sophia Drake',30,'1994-08-08','Female','Single','French','A+','MBA','P1000010','JKX0123Q','Passport','9000000010','sophia.d@ops.com','8000000010','AG1010',6677,'Active','2021-09-09','BNP','1110010','BNP010',80000,'Analyst','Paris','Intel Ops','EU Base','0'),
+
+('Damon Knight',33,'1991-05-17','Male','Single','American','B+','B.Tech','P1000011','KLX1123P','Passport','9000000011','damon.k@ops.com','8000000011','AG1011',5566,'Active','2020-04-04','Citi','1110011','CITI011',84000,'Agent','Miami','Cyber Ops','US Base','0'),
+
+('Chloe Winters',27,'1997-11-03','Female','Single','Canadian','O-','B.Sc','P1000012','LMX1223O','Aadhar','9000000012','chloe.w@ops.com','8000000012','AG1012',3344,'Active','2023-02-22','TD','1110012','TD012',69000,'Agent','Vancouver','Surveillance','Canada Base','0'),
+
+('Marcus Reed',36,'1988-01-09','Male','Married','British','A+','MCA','P1000013','MNX1323N','Passport','9000000013','marcus.r@ops.com','8000000013','AG1013',7788,'Active','2019-06-30','HSBC','1110013','HSBC013',91000,'Supervisor','London','Ops','UK Base','0'),
+
+('Lara Bishop',29,'1995-03-27','Female','Single','Australian','B+','MBA','P1000014','NOX1423M','Passport','9000000014','lara.b@ops.com','8000000014','AG1014',2233,'Active','2022-07-18','ANZ','1110014','ANZ014',73000,'Analyst','Melbourne','Finance','AU Base','0'),
+
+('Jason Cole',31,'1993-09-19','Male','Single','American','O+','B.Tech','P1000015','OPX1523L','Passport','9000000015','jason.c@ops.com','8000000015','AG1015',8890,'Active','2021-11-11','Chase','1110015','CHASE015',86000,'Agent','Dallas','Cyber Ops','US Base','0'),
+
+('Elena Cruz',28,'1996-12-01','Female','Single','Spanish','A-','BBA','P1000016','PQX1623K','Aadhar','9000000016','elena.c@ops.com','8000000016','AG1016',4455,'Active','2023-01-01','Santander','1110016','SANT016',70000,'Agent','Madrid','Field Ops','EU Base','0'),
+
+('Noah Hunter',34,'1990-04-05','Male','Married','American','AB+','M.Tech','P1000017','QRX1723J','Passport','9000000017','noah.h@ops.com','8000000017','AG1017',9922,'Active','2020-10-10','WF','1110017','WF017',90000,'Manager','Seattle','Security','US Base','0'),
+
+('Ava Sterling',26,'1998-06-30','Female','Single','British','O+','B.Sc','P1000018','RSX1823I','Aadhar','9000000018','ava.s@ops.com','8000000018','AG1018',3311,'Active','2023-03-25','Barclays','1110018','BAR018',67000,'Agent','Manchester','Surveillance','UK Base','0'),
+
+('Zachary Quinn',37,'1987-02-20','Male','Married','Irish','B-','MBA','P1000019','STX1923H','Passport','9000000019','zach.q@ops.com','8000000019','AG1019',7744,'Active','2019-05-05','AIB','1110019','AIB019',92000,'Director','Dublin','Ops','EU Base','0'),
+
+('Mila Novak',29,'1995-08-16','Female','Single','Czech','A+','B.Tech','P1000020','TUX2023G','Passport','9000000020','mila.n@ops.com','8000000020','AG1020',5588,'Active','2022-04-12','CSOB','1110020','CSOB020',74000,'Analyst','Prague','Intel','EU Base','0'),
+
+('Alexander Vortex',40,'1984-01-01','Male','Married','American','O+','PhD','P9000001','ADM1234','Passport','9100000001','alex.v@ops.com','8100000001','AG9001',9999,'Active','2015-01-01','Chase','2220001','ADM001',120000,'Chief Director','Washington','Global Ops','HQ','1'),
+
+('Victoria Nyx',38,'1986-05-15','Female','Married','British','A+','MBA','P9000002','ADM2345','Passport','9100000002','victoria.n@ops.com','8100000002','AG9002',8888,'Active','2016-03-10','Barclays','2220002','ADM002',115000,'Ops Head','London','Strategic Ops','HQ','1'),
+
+('Sebastian Crowe',42,'1982-09-09','Male','Married','German','B+','M.Tech','P9000003','ADM3456','Passport','9100000003','seb.c@ops.com','8100000003','AG9003',7777,'Active','2014-07-20','Deutsche','2220003','ADM003',125000,'Security Chief','Berlin','Defense','HQ','1'),
+
+('Lucian Graves',45,'1979-02-02','Male','Married','American','O+','PhD','P9000004','ADM4567','Passport','9100000004','lucian.g@ops.com','8100000004','AG9004',6666,'Active','2013-01-01','Citi','2220004','ADM004',130000,'Director','NY','Global Ops','HQ','1'),
+
+('Aurora Vale',37,'1987-07-07','Female','Single','Canadian','A-','MBA','P9000005','ADM5678','Passport','9100000005','aurora.v@ops.com','8100000005','AG9005',5555,'Active','2017-05-05','RBC','2220005','ADM005',110000,'Head Analyst','Toronto','Intel','HQ','1'),
+
+('Dominic Frost',41,'1983-11-11','Male','Married','Italian','B+','M.Tech','P9000006','ADM6789','Passport','9100000006','dom.f@ops.com','8100000006','AG9006',4444,'Active','2015-09-09','UniCredit','2220006','ADM006',118000,'Ops Lead','Rome','Finance','HQ','1'),
+
+('Helena Storm',39,'1985-04-04','Female','Married','French','O+','MBA','P9000007','ADM7890','Passport','9100000007','helena.s@ops.com','8100000007','AG9007',3333,'Active','2016-12-12','BNP','2220007','ADM007',112000,'Director','Paris','Strategy','HQ','1'),
+
+('Victor Kane',44,'1980-06-06','Male','Married','American','AB+','PhD','P9000008','ADM8901','Passport','9100000008','victor.k@ops.com','8100000008','AG9008',2222,'Active','2012-08-08','WF','2220008','ADM008',135000,'Chief Ops','LA','Global Ops','HQ','1'),
+
+('Elara Quinn',36,'1988-03-03','Female','Single','Irish','A+','MBA','P9000009','ADM9012','Passport','9100000009','elara.q@ops.com','8100000009','AG9009',1111,'Active','2018-10-10','AIB','2220009','ADM009',108000,'Senior Analyst','Dublin','Intel','HQ','1'),
+
+('Orion Blake',43,'1981-12-12','Male','Married','British','B+','PhD','P9000010','ADM0123','Passport','9100000010','orion.b@ops.com','8100000010','AG9010',1010,'Active','2013-03-03','HSBC','2220010','ADM010',140000,'Global Head','London','Strategy','HQ','1');

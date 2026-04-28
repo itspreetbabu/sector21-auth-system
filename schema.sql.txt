@@ -1,0 +1,36 @@
+CREATE DATABASE auth;
+USE auth;
+
+CREATE TABLE authorisation (
+    Agent_Name VARCHAR(100),
+    Age INT,
+    DOB DATE,
+    Gender VARCHAR(10),
+    Marital_Status VARCHAR(20),
+    Nationality VARCHAR(50),
+    Blood_Group VARCHAR(5),
+    Educational_Qualification VARCHAR(100),
+    Passport_Number VARCHAR(20),
+    PAN_Details VARCHAR(20),
+    Specific_Identity_Proof VARCHAR(50),
+    Contact_Number VARCHAR(15),
+    Email_Id VARCHAR(100),
+    Emergency_Contact_Number VARCHAR(15),
+
+    Agent_Id VARCHAR(20) PRIMARY KEY,
+    Password INT,
+
+    Agent_Status VARCHAR(20),
+    Date_Of_Joining DATE,
+    Name_OF_Bank VARCHAR(100),
+    Account_No VARCHAR(30),
+    IFSC_Code VARCHAR(20),
+
+    Agent_Salary INT,
+    POST VARCHAR(50),
+    Current_Location VARCHAR(100),
+    Operation VARCHAR(100),
+    Training_Base VARCHAR(100),
+
+    Admin_Value VARCHAR(5)
+);
